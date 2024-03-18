@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9849AF6-A90A-4347-A91F-1AC26FCEBCA3}|ConsoleApplication1\\ConsoleApplication1.vcxproj|G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication1\\ConsoleApplication1\\operation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9849AF6-A90A-4347-A91F-1AC26FCEBCA3}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\operation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "operation.c",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication1\\ConsoleApplication1\\operation.c",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\operation.c",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication1\\ConsoleApplication1\\operation.c",
+              "RelativeToolTip": "ConsoleApplication1\\operation.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T07:20:41.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

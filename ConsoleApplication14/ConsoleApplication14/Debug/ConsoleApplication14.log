@@ -1,0 +1,6 @@
+﻿  rsa_ed.c
+d:\2023\강의\암호학 프로그래밍\수업용 연습\consoleapplication14\consoleapplication14\rsa_std.c(63): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+d:\2023\강의\암호학 프로그래밍\수업용 연습\consoleapplication14\consoleapplication14\rsa_std.c(135): warning C4098: 'Modular': 'void' 함수에서 값을 반환하고 있습니다.
+d:\2023\강의\암호학 프로그래밍\수업용 연습\consoleapplication14\consoleapplication14\rsa_ed.c(79): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ConsoleApplication14.vcxproj -> D:\2023\강의\암호학 프로그래밍\수업용 연습\ConsoleApplication14\Debug\ConsoleApplication14.exe
+  ConsoleApplication14.vcxproj -> D:\2023\강의\암호학 프로그래밍\수업용 연습\ConsoleApplication14\Debug\ConsoleApplication14.pdb (Full PDB)

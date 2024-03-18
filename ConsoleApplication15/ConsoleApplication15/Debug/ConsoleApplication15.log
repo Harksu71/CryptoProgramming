@@ -1,0 +1,5 @@
+﻿  rsa_sv.c
+d:\2023\강의\암호학 프로그래밍\수업용 연습\consoleapplication15\consoleapplication15\rsa_std.c(64): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+d:\2023\강의\암호학 프로그래밍\수업용 연습\consoleapplication15\consoleapplication15\rsa_std.c(136): warning C4098: 'Modular': 'void' 함수에서 값을 반환하고 있습니다.
+  ConsoleApplication15.vcxproj -> D:\2023\강의\암호학 프로그래밍\수업용 연습\ConsoleApplication15\Debug\ConsoleApplication15.exe
+  ConsoleApplication15.vcxproj -> D:\2023\강의\암호학 프로그래밍\수업용 연습\ConsoleApplication15\Debug\ConsoleApplication15.pdb (Full PDB)

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA28CE5-99BD-468F-AE2B-CC56EE4E6BC7}|ConsoleApplication2\\ConsoleApplication2.vcxproj|G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication2\\ConsoleApplication2\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CA28CE5-99BD-468F-AE2B-CC56EE4E6BC7}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array.c",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication2\\ConsoleApplication2\\array.c",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\array.c",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\11uyzKU5UI8ENdaIqU1u8Z5P4-sSZ9_If\\\uD68C\uC0AC\\\uD638\uC11C\uB300\uD559\uAD50\\\uAC15\uC758\uC790\uB8CC\\2024\uB144\uB3C4 1\uD559\uAE30\\\uC554\uD638\uD559\uD504\uB85C\uADF8\uB798\uBC0D\\\uC218\uC5C5\uC6A9 \uC5F0\uC2B5\\ConsoleApplication2\\ConsoleApplication2\\array.c",
+              "RelativeToolTip": "ConsoleApplication2\\array.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-08T07:21:37.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
